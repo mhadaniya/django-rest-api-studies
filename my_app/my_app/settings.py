@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     #3rd party libs
     'rest_framework',
     'rest_framework.authtoken',
+    'rest_framework_swagger',
     'corsheaders',
     'allauth',
     'allauth.account',
